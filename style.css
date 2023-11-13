@@ -1,0 +1,18 @@
+body{display: flex; justify-content: center; align-items: center; height: 100vh; font-family: Helvetica; background-color: black;}
+
+.heather{display: flex; justify-content: space-between; padding: 5px;}
+
+section{background: rgb(0, 0, 0); padding-top: 60px;}
+.box{ background: white; width: 450px;}
+
+img{width:100%; height: 350px;}
+
+div.description{padding: 15px;}
+
+.logoHTML{display: flex; align-items: center;}
+
+.fa-brands {margin-right: 5px; font-size: 20px;}
+
+.fa-ellipsis-vertical {font-size: 30px;}
+
+.post-icons {display: flex; justify-content: space-between; font-size: 25px; padding: 10px;}
